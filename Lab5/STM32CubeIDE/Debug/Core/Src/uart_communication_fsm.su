@@ -1,0 +1,2 @@
+uart_communication_fsm.c:21:6:uart_communication_init	8	static
+uart_communication_fsm.c:27:6:uart_communication_fsm	16	static
